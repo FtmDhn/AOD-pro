@@ -1,0 +1,47 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: founders;
+    src: url(../font/FontsFree-Net-FoundersGrotesk-Regular-1.ttf);
+}
+
+body {
+    font-size: 100%;
+    width: 100%;
+    font-family: founders;
+    overflow-x: hidden;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+
+    &::active {
+        color: inherit;
+    }
+
+    &:visited {
+        color: inherit;
+    }
+}
