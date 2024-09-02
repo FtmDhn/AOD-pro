@@ -14,7 +14,7 @@
 
 - 🕜 Created - 2024-09-02
 
-- Technologies Used - Html , css 
+- Technologies Used - Html , css , js
 
 - Hooks Used : useState 
 
