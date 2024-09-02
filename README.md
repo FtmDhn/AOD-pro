@@ -2,9 +2,11 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![pic1](https://github.com/user-attachments/assets/3c5540c2-3a27-4132-92ea-3fb6bcb5a6c2)
+![view-1](https://github.com/user-attachments/assets/1e78e131-5e62-4ff1-82f9-b1c1cc47e0d0)
 
-![pic2](https://github.com/user-attachments/assets/85423aa3-0e06-4403-9a00-0cab0e499445)
+![view-2](https://github.com/user-attachments/assets/525467a1-71f4-4d1c-bf96-4aec8315835f)
+
+![view-3](https://github.com/user-attachments/assets/db105c47-14c9-4694-8e79-b104ab3ac670)
 
 - 🐾 [Demo Project]https://ftmdhn.github.io/aod-pro/)
 
